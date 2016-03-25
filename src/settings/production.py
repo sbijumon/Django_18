@@ -32,8 +32,8 @@ if not settings.DEBUG:
     
     
     EMAIL_HOST = 'smtp.gmail.com'
-    EMAIL_HOST_USER = 'sekharanbijumon@gmail.com'
-    EMAIL_HOST_PASSWORD = '@mariappally'
+    EMAIL_HOST_USER = 'bijuskhr@gmail.com'
+    EMAIL_HOST_PASSWORD = 'Kochumol88'
     EMAIL_PORT = 587
     EMAIL_USE_TLS = True
     
